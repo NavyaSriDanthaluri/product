@@ -1,0 +1,8 @@
+{
+        "productCode": 101,
+        "category": "laptop",
+        "productName": "dell",
+        "price": 30000.0,
+        "dealerName":"ramesh",
+        "UserRating":3.0
+}
